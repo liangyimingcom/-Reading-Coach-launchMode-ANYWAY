@@ -1,3 +1,4 @@
+``` javascript
 // ==UserScript==
 // @name        Reading Coach launchMode ANYWAY
 // @namespace   Violentmonkey Scripts
@@ -61,4 +62,7 @@ window.onload = function() {
     document.body.appendChild(button2);
 };
 
+
+
+```
 
